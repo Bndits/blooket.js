@@ -1,7 +1,7 @@
 # blkt.js
 The best blooket hack!
 
-# Download KillBlooket below
+# Download blkt.js below
 - First you must download python 3.7, you can do that from [This Link](https://www.python.org/downloads/release/python-377/).
   - On install you do need to check the "Add to path" option when you can do so.
 - Second you must download the code here on GitHub.
