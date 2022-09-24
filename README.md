@@ -1,4 +1,4 @@
-# KillBlooket.cc
+# blkt.js
 The best blooket hack!
 
 # Download KillBlooket below
